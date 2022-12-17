@@ -1,2 +1,2 @@
 # JS-simulations
-physics simulation stuff
+physics simulations written in Javascript
